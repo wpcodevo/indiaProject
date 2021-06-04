@@ -1,8 +1,7 @@
 {
-  "name": "mern_clone",
+  "name": "ecom-indian",
   "version": "1.0.0",
   "main": "server.js",
-  "repository": "https://github.com/ziddahedem/mern-yt-clone.git",
   "author": "Ziddah Edem <ziddah.edem@gmail.com>",
   "license": "MIT",
   "type": "module",
